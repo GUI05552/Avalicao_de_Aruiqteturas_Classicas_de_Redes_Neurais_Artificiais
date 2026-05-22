@@ -1,4 +1,4 @@
-Copyright (c) 2026 Guilherme Mendonça Castro
+# Copyright (c) 2026 Guilherme Mendonça Castro
 
 Todos os direitos reservados.
 
