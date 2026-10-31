@@ -14,3 +14,5 @@ Avaliar o desempenho de arquiteturas clássicas de redes neurais artificiais em 
 3) Reproduzir experimentos de classificação nos conjuntos de dados Iris, Wine e subset MNIST usando implementações livres, registrando acurácia, erro e tempo de convergência.
 4) Analisar os resultados para identificar vantagens, limitações e cenários de aplicação de baixo custo na Região Amazônica.
 ## Metodologia
+![imagem 1](metodologiapng.png)
+
