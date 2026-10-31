@@ -11,7 +11,7 @@ Neste capítulo são apresentados os conceitos fundamentais da Inteligência Art
 </p>
 
 <h2 align="center">
-  1.1 Inteligênci Artificial
+  1.1 Inteligência Artificial
 </h2>
 
 <p align="justify">
