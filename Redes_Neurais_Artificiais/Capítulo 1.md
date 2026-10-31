@@ -62,3 +62,30 @@ Mas, é importante compreender que a Inteligência Artificial não substitui o c
 <p align="justify">
 No contexto da região Amazônica, essas aplicações tornam-se ainda mais relevantes devido à extensão territorial, à grande diversidade ambiental e à necessidade de monitoramento contínuo dos recursos naturais. Técnicas de Inteligência Artificial podem auxiliar na classificação automática de imagens de sensoriamento remoto, identificação de áreas degradadas, previsão hidrológica, monitoramento da biodiversidade e apoio à tomada de decisões em projetos voltados à conservação ambiental. Essas possibilidades justificam o crescente interesse pelo desenvolvimento de pesquisas que integrem Inteligência Artificial e problemas específicos da Amazônia
 </p>
+
+<h2 align="center">
+  1.2 História da IA
+</h2>
+
+<p align="justify">
+A história da IA é marcada pela busca constante por desenvolver máquinas que fossem capazes de reproduzir características da inteligência humana, como o raciocínio, a aprendizagem, a percepção e a tomada de decisões. Embora o termo Inteligência Artificial tenha sido oficialmente proposto só na década de 1950, suas origens remontam a estudos anteriores sobre a lógica, a matemática e a computação, que forneceram a base teórica para o surgimento dessa área.
+</p>
+<p align="justify">
+O desenvolvimento da IA ocorreu de uma forma gradual, acompanhando a evolução dos computadores e das técnicas matemáticas disponíveis em cada tempo. Ao longo das décadas, a área passou por momentos de grande entusiasmo, seguidos por períodos de baixo investimento e desaceleração científica, que ficou conhecido como o Invernos da Inteligência Artificial, mesmo diante dessas dificuldades, novos avanços tecnológicos permitiram que a pesquisa fosse retomada mais tarde, tornando a IA uma das áreas mais importantes da ciência e da engenharia na atualidade.
+</p>
+<p align="justify">
+A evolução histórica é fundamental para entender como que surgiram as Redes Neurais Artificiais e por que elas ocupam uma posição de destaque entre as diversas técnicas usadas atualmente.
+</p>
+<h4 align="center">
+  Figura 1.2 - Linha do tempo da evolução da Inteligência Artificial.
+</h4>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/6c831057-63d0-45ce-be04-c868544c70f6"
+    alt="Imagem do projeto"
+    width="600"
+  />
+</p>
+<h4 align="center">
+  Fonte: Autor (2026)
+</h4>
