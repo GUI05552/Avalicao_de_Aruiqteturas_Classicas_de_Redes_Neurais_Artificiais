@@ -105,3 +105,35 @@ Esse trabalho é considerado um dos principais marcos para o desenvolvimento das
 <p align="justify">
 O neurônio de McCulloch-Pitts não possuía a capacidade de aprendizado, até porque sua função era demonstrar que operações lógicas poderiam ser representadas usando uma estrutura inspirada em neurônios biológicos.
 </p>
+
+<h3 align="center">
+  1.2.2 - Alan Turing e o conceito de inteligência computacional
+</h3>
+<p align="justify">
+Em 1950, o matemático britânico Alan Turing publicou o artigo Computing Machinery and Intelligence, propondo uma das questões mais conhecidas da Computação:"As máquinas podem pensar?"
+</p>
+<p align="justify">
+Essa pergunta ainda era objeto de discussões filosóficas mas, Turing propôs um método prático para avaliar a inteligência de uma máquina, chamado:"Teste de Turing".
+</p>
+<p align="justify">
+Nesse teste, um avaliador humano conversa, por meio de mensagens, com dois participantes: uma pessoa e um computador. Caso o avaliador não consiga distinguir corretamente qual deles é a máquina, considera-se que o sistema apresentou um comportamento inteligente.
+</p>
+<p align="justify">
+Mesmo depois de décadas, o Teste de Turing ainda é uma importante referência histórica para os estudos da Inteligência Artificial.
+</p>
+
+<h4 align="center">
+  Figura 1.3 - Representação do Teste de Turing.
+</h4>
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/beaa6319-b31c-4710-b750-9a6c9112af5b"
+    alt="Imagem do projeto"
+    width="600"
+  />
+</p>
+
+<h4 align="center">
+  Fonte: Autor (2026)
+</h4>
