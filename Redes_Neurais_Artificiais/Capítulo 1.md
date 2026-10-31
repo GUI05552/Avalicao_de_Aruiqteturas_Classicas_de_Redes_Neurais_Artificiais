@@ -89,3 +89,19 @@ A evolução histórica é fundamental para entender como que surgiram as Redes 
 <h4 align="center">
   Fonte: Autor (2026)
 </h4>
+
+<h3 align="center">
+  1.2.1 - Os primeiros Estudos
+</h3>
+<p align="justify">
+Antes mesmo da existência dos computadores modernos, os matemáticos e filósofos já discutiam a possibilidade de representar o raciocínio humano por meio de símbolos e regras lógicas, a inteligência humana sempre questionou os pensadores de diferentes épocas, os estudos demonstravam que determinadas decisões poderiam ser descritas matematicamente, permitindo que fossem executadas por máquinas.
+</p>
+<p align="justify">
+Em 1943, um carinha chamado Warren McCulloch e Walter Pitts publicaram um dos trabalhos mais importantes para o desenvolvimento das Redes Neurais Artificiais. Nesse estudo foi apresentado um modelo matemático simplificado e inspirado no funcionamento do neurônio biológico, conhecido atualmente como neurônio de McCulloch-Pitts. Embora bastante simples, esse modelo demonstrou que operações lógicas poderiam ser realizadas utilizando unidades computacionais inspiradas no cérebro humano, os primeiros passos forma dados ai.
+</p>
+<p align="justify">
+Esse trabalho é considerado um dos principais marcos para o desenvolvimento das Redes Neurais Artificiais, pois estabeleceu a primeira relação entre Neurociência e Computação.
+</p>
+<p align="justify">
+O neurônio de McCulloch-Pitts não possuía a capacidade de aprendizado, até porque sua função era demonstrar que operações lógicas poderiam ser representadas usando uma estrutura inspirada em neurônios biológicos.
+</p>
