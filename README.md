@@ -14,5 +14,17 @@ Avaliar o desempenho de arquiteturas clássicas de redes neurais artificiais em 
 3) Reproduzir experimentos de classificação nos conjuntos de dados Iris, Wine e subset MNIST usando implementações livres, registrando acurácia, erro e tempo de convergência.
 4) Analisar os resultados para identificar vantagens, limitações e cenários de aplicação de baixo custo na Região Amazônica.
 ## Metodologia
-![imagem 1](metodologiapng.png)
+<img width="1937" height="710" alt="image" src="https://github.com/user-attachments/assets/cb5f97ba-8a6f-4346-8277-43a733c50306" />
 
+## Referências
+
+BRAGA, Antônio P.; LUDEMIR, Teresa B.; CARVALHO, André C. P. L. F. *Redes neurais artificiais: teoria e aplicações*. Rio de Janeiro: LTC, 2000.
+
+DUA, Dheeru; GRAFF, Casey. *UCI Machine Learning Repository*. Irvine: University of California, School of Information and Computer Science, 2019. Disponível em: https://archive.ics.uci.edu. Acesso em: 29 jun. 2025.
+
+HAYKIN, Simon. *Redes neurais: princípios e prática*. 2. ed. Porto Alegre: Bookman, 2000.
+PEDREGOSA, Fabian et al. Scikit-learn: machine learning in Python. *Journal of Machine Learning Research*, v. 12, p. 2825–2830, 2011. Disponível em: https://www.jmlr.org/papers/v12/pedregosa11a.html.
+
+SILVA, Ivan Nunes da; SPATTI, Danilo Hernane; FLAUZINO, Rogério Andrade; LIBONATI, Flávio; BARROS, Fernando de Oliveira. *Redes neurais artificiais para engenharia e ciências aplicadas: fundamentos teóricos e aspectos práticos*. São Paulo: Artliber, 2010.
+
+VETTIGLI, Giuseppe. *MiniSom: minimalistic and NumPy-based implementation of the Self-Organizing Map*. 2018. Disponível em: https://github.com/JustGlowing/minisom. Acesso em: 29 jun. 2025.
