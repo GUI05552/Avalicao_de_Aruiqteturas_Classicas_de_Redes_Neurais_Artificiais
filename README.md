@@ -1,18 +1,79 @@
 # Avaliação de arquiteturas clássicas de redes neurais para classificação e aplicações na Região Amazônica
-Repositório acadêmico dedicado ao estudo e aplicação de arquiteturas clássicas de Redes Neurais Artificiais, incluindo Perceptron, Adaline, MLP, SOM, RBF, LVQ, Hopfield e ART-1. O projeto reúne fundamentos teóricos, experimentos reproduzíveis, métricas e aplicações de IA de baixo custo na Região Amazônica.
-# Descrisão
-## Relevância do Tema
-Redes neurais artificiais (RNAs) sustentam boa parte da Inteligência Artificial atual, mas o ensino costuma focar apenas em modelos profundos. 
-Revisitar as arquiteturas clássicas — Perceptron, Adaline, MLP, RBF, Hopfield, SOM, LVQ e ART-1 — atende a três demandas objetivas:Reforço de fundamentos - Esses modelos introduzem conceitos que continuam válidos: separabilidade linear, regra Delta, retro-propagação, memórias associativas e auto-organização. Dominar tais ideias evita que o aluno trate a IA como “caixa-preta” e dá base para entender redes mais complexas. Lacuna didática - Em muitas grades, o conteúdo clássico é resumido ou omitido. O projeto gera resumos, fichamentos e comparações que podem ser reutilizados em disciplinas de Inteligência Artificial e Aprendizado de Máquina, fortalecendo o material de apoio em português. Aplicações de baixo custo - As arquiteturas clássicas rodam em computadores sem GPU — realidade comum na Região Amazônica — e continuam úteis em tarefas como classificação tabular, clustering de sensores e memórias de padrão. Avaliar onde elas ainda se destacam oferece alternativas de IA acessível para problemas locais.
-## Impacto Social 
-Este projeto examina e testa oito arquiteturas clássicas de redes neurais — Perceptron , Adaline, MLP, RBF, Hopfield, SOM, LVQ e ART-1 — com bibliotecas livres (Scikit-learn, Keras, MiniSom) e computadores sem GPU. O objetivo é identificar, de forma simples e prática, onde esses modelos ainda oferecem bom desempenho e como podem ser aplicados ou ensinados com recursos limitados, especialmente na Região Amazônica. A atividade é organizada como uma trilha de aprendizagem de 12 meses, com dedicação de 20 horas semanais, tornando o discente protagonista do processo de pesquisa. Dominar a teoria – O aluno irá obter uma base sólida dos conceitos de neurônio artificial, treinamento supervisionado e auto-organização, e discute semanalmente esses tópicos em grupo, treinando pensamento crítico e clareza de exposição. Aprimorar a pesquisa – Aprende a realizar buscas bibliográficas (2015-2025), selecionar e fichar artigos, e reproduz experimentos com bibliotecas prontas, interpretando métricas de acurácia, erro e tempo de convergência. Comunicar ciência – Produz resumos mensais e relatórios comparativos; ao final, elabora um artigo para o CONIC/UFAM, prepara um pôster e apresenta os resultados, desenvolvendo escrita acadêmica, oratória e visualização de dados. Ao concluir o projeto, o aluno terá uma visão clara das vantagens e limitações de cada rede neural clássica, um portfólio de análises replicáveis e maior capacitação para atuar em pesquisas ou aplicações de IA de baixo custo
+
+<p align="justify">
+Repositório acadêmico dedicado ao estudo e à aplicação de arquiteturas clássicas de Redes Neurais Artificiais (RNAs), incluindo Perceptron, Adaline, MLP, SOM, RBF, LVQ, Hopfield e ART-1. O projeto reúne fundamentos teóricos, experimentos reproduzíveis, métricas de avaliação e aplicações de Inteligência Artificial de baixo custo na Região Amazônica.
+</p>
+
+## Descrição
+
+### Relevância do Tema
+
+<p align="justify">
+As Redes Neurais Artificiais (RNAs) sustentam grande parte dos avanços atuais em Inteligência Artificial. Entretanto, o ensino da área costuma concentrar-se principalmente em modelos de aprendizagem profunda. Revisitar as arquiteturas clássicas — Perceptron, Adaline, MLP, RBF, Hopfield, SOM, LVQ e ART-1 — atende a três demandas principais:
+</p>
+
+<p align="justify">
+<strong>1. Reforço dos fundamentos:</strong> esses modelos introduzem conceitos que continuam relevantes, como separabilidade linear, regra Delta, retropropagação do erro, memórias associativas e auto-organização. Dominar essas ideias evita que o estudante trate a Inteligência Artificial como uma “caixa-preta” e fornece uma base para compreender redes mais complexas.
+</p>
+
+<p align="justify">
+<strong>2. Lacuna didática:</strong> em muitas grades curriculares, o conteúdo relacionado às arquiteturas clássicas é resumido ou pouco explorado. Este projeto busca produzir resumos, fichamentos e comparações que possam ser reutilizados em disciplinas de Inteligência Artificial e Aprendizado de Máquina, contribuindo para o fortalecimento dos materiais de apoio em língua portuguesa.
+</p>
+
+<p align="justify">
+<strong>3. Aplicações de baixo custo:</strong> as arquiteturas clássicas podem ser executadas em computadores sem unidades de processamento gráfico (GPUs), realidade presente em diversos contextos da Região Amazônica. Esses modelos continuam sendo úteis em tarefas como classificação de dados tabulares, agrupamento de dados de sensores e processamento de padrões. Avaliar os cenários em que apresentam resultados relevantes permite investigar alternativas acessíveis de Inteligência Artificial para problemas locais.
+</p>
+
+## Impacto Social
+
+<p align="justify">
+Este projeto examina e testa oito arquiteturas clássicas de Redes Neurais Artificiais — Perceptron, Adaline, MLP, RBF, Hopfield, SOM, LVQ e ART-1 — utilizando bibliotecas de código aberto, como Scikit-learn, Keras e MiniSom, em computadores sem GPU. O objetivo é identificar, de forma sistemática e prática, em quais cenários esses modelos apresentam desempenho satisfatório e como podem ser aplicados ou ensinados em ambientes com recursos computacionais limitados, especialmente na Região Amazônica.
+</p>
+
+<p align="justify">
+A atividade é organizada como uma trilha de aprendizagem com duração de 12 meses e dedicação de 20 horas semanais, tornando o discente protagonista do processo de pesquisa.
+</p>
+
+<p align="justify">
+<strong>Domínio da teoria:</strong> o estudante desenvolverá uma base sólida sobre neurônios artificiais, treinamento supervisionado e auto-organização. Esses conhecimentos serão aprofundados por meio de discussões semanais, contribuindo para o desenvolvimento do pensamento crítico e da capacidade de exposição de ideias.
+</p>
+
+<p align="justify">
+<strong>Aprimoramento da pesquisa:</strong> o estudante aprenderá a realizar buscas bibliográficas, selecionar e fichar artigos científicos publicados entre 2015 e 2025 e reproduzir experimentos com bibliotecas de código aberto. Também aprenderá a interpretar métricas como acurácia, erro e tempo de convergência.
+</p>
+
+<p align="justify">
+<strong>Comunicação científica:</strong> serão produzidos resumos mensais e relatórios comparativos. Ao final do projeto, pretende-se elaborar um artigo científico para submissão ao CONIC/UFAM, preparar um pôster e apresentar os resultados obtidos, desenvolvendo competências de escrita acadêmica, oratória e visualização de dados.
+</p>
+
+<p align="justify">
+Ao concluir o projeto, o estudante deverá possuir uma compreensão fundamentada das vantagens e limitações de cada arquitetura clássica estudada, um portfólio de análises reproduzíveis e maior capacitação para atuar em pesquisas ou aplicações de Inteligência Artificial de baixo custo.
+</p>
+
 ## Objetivo Geral
-Avaliar o desempenho de arquiteturas clássicas de redes neurais artificiais em tarefas de classificação, bem como suas possibilidades de aplicação na Região Amazônica
+
+<p align="justify">
+Avaliar o desempenho de arquiteturas clássicas de Redes Neurais Artificiais em tarefas de classificação, bem como investigar suas possibilidades de aplicação em contextos da Região Amazônica.
+</p>
+
 ## Objetivos Específicos
-1) Compreender os fundamentos teóricos das oito arquiteturas clássicas de redes neurais por meio de estudo dirigido e discussões semanais.
-2) Revisar a literatura publicada sobre aplicações de cada arquitetura em problemas de classificação de padrões.
-3) Reproduzir experimentos de classificação nos conjuntos de dados Iris, Wine e subset MNIST usando implementações livres, registrando acurácia, erro e tempo de convergência.
-4) Analisar os resultados para identificar vantagens, limitações e cenários de aplicação de baixo custo na Região Amazônica.
+
+<p align="justify">
+<strong>1.</strong> Compreender os fundamentos teóricos das oito arquiteturas clássicas de Redes Neurais Artificiais por meio de estudo dirigido e discussões semanais.
+</p>
+
+<p align="justify">
+<strong>2.</strong> Revisar a literatura científica sobre aplicações de cada arquitetura em problemas de classificação de padrões.
+</p>
+
+<p align="justify">
+<strong>3.</strong> Reproduzir experimentos de classificação utilizando os conjuntos de dados Iris, Wine e um subconjunto do MNIST, por meio de implementações de código aberto, registrando métricas de acurácia, erro e tempo de convergência.
+</p>
+
+<p align="justify">
+<strong>4.</strong> Analisar os resultados experimentais para identificar vantagens, limitações e possíveis cenários de aplicação de baixo custo na Região Amazônica.
+</p>
+
 ## Metodologia
 <img width="1937" height="710" alt="image" src="https://github.com/user-attachments/assets/cb5f97ba-8a6f-4346-8277-43a733c50306" />
 
