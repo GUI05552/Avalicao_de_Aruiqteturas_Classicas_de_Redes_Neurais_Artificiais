@@ -1,4 +1,6 @@
-# Avaliação de arquiteturas clássicas de redes neurais para classificação e aplicações na Região Amazônica
+<h1 align="center">
+  Avaliação de Arquiteturas Clássicas de Redes Neurais para Classificação e Aplicações na Região Amazônica
+</h1>
 
 <p align="justify">
 Repositório acadêmico dedicado ao estudo e à aplicação de arquiteturas clássicas de Redes Neurais Artificiais (RNAs), incluindo Perceptron, Adaline, MLP, SOM, RBF, LVQ, Hopfield e ART-1. O projeto reúne fundamentos teóricos, experimentos reproduzíveis, métricas de avaliação e aplicações de Inteligência Artificial de baixo custo na Região Amazônica.
