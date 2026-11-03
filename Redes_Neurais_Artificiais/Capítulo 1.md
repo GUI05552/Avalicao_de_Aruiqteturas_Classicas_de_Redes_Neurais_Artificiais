@@ -350,7 +350,7 @@ Figura 1.7 – Aprendizado supervisionado
 </h4>
 
 <p align="center">
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3e4d5d70-92ab-48fe-bbf0-80dda6f0033b" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3e4d5d70-92ab-48fe-bbf0-80dda6f0033b" />
 </p>
 
 <h4 align="center">
@@ -378,7 +378,7 @@ Figura 1.8 – Aprendizado não supervisionado.
 </h4>
 
 <p align="center">
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0de0c64b-9444-4900-bec4-40fa8d587eee" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0de0c64b-9444-4900-bec4-40fa8d587eee" />
 </p>
 
 <h4 align="center">
@@ -401,7 +401,7 @@ O objetivo consiste em aprender uma estratégia capaz de maximizar a recompensa 
 </h4>
 
 <p align="center">
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ae6b4e07-4cae-4177-8c88-f19590485819" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ae6b4e07-4cae-4177-8c88-f19590485819" />
 </p>
 
 <h4 align="center">
