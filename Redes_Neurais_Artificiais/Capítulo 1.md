@@ -137,3 +137,75 @@ Mesmo depois de décadas, o Teste de Turing ainda é uma importante referência 
 <h4 align="center">
   Fonte: Autor (2026)
 </h4>
+
+<h3 align="center">
+1.2.3 A Conferência de Dartmouth
+</h3>
+
+<p align="justify">
+1956 é considerado o nascimento oficial da IA como área científica, nesse ano os pesquisadores se reuniram na Universidade de Dartmouth, nos Estados Unidos, durante um evento organizado por John McCarthy, Marvin Minsky, Nathaniel Rochester e Claude Shannon.
+</p>
+<p align="justify">
+Foi nessa conferência que surgiu oficialmente o termo Artificial Intelligence, usado para descrever pesquisas voltadas ao desenvolvimento de máquinas inteligentes, naquela época os pesquisadores acreditavam que, em poucas décadas, computadores seriam capazes de resolver praticamente qualquer tipo de problema intelectual humano... até agora não é capaz, 2026,  embora essa previsão tenha se mostrado otimista demais, a conferência marcou o início de inúmeras pesquisas que influenciam a IA até os dias de hoje.
+</p>
+<h3 align="center">
+1.2.4 O surgimento das Redes Neurais
+</h3>
+<p align="justify">
+No ano de 1958, Frank Rosenblatt apresentou o Perceptron, considerado a primeira arquitetura de rede neural capaz de aprender a partir de exemplos bem definidos, o Perceptron introduziu conceitos fundamentais usados até hoje, como os pesos sinápticos, o treinamento supervisionado e a atualização automática dos parâmetros do modelo.
+</p>
+<p align="justify">
+Esse trabalho despertou um grande interesse na comunidade científica, pois demonstrava que computadores podiam aprender sem a necessidade de programar explicitamente todas as regras de decisão mas nem tudo são flores e as limitações dessa arquitetura ainda eram significativas, principalmente na resolução de problemas que não eram linearmente separáveis.
+</p>
+<h3 align="center">
+1.2.5 O primeiro Inverno da Inteligência Artificial
+</h3>
+<p align="justify">
+Em 1969, Marvin Minsky e Seymour Papert publicaram o livro Perceptrons, demonstrando diversas limitações matemáticas do Perceptron de camada única, entre essas limitações,  estava bem destacada a incapacidade da rede em resolver o problema da função lógica XOR.
+</p>
+<p align="justify">
+Como consequência, o entusiasmo com as Redes Neurais diminuiu bastante, ocasionando redução de investimentos e desaceleração das pesquisas.
+</p>
+<p align="justify">
+Esse período ficou conhecido como Primeiro Inverno da Inteligência Artificial.
+</p>
+<p align="justify">
+Mesmo que o livro de Minsky e Papert tenha apontado limitações reais do Perceptron, ele também contribuiu para reduzir o interesse pelas Redes Neurais durante aproximadamente uma década. Posteriormente, verificou-se que muitas dessas limitações poderiam ser superadas utilizando arquiteturas multicamadas.
+</p>
+<h3 align="center">
+1.2.6 O renascimento das Redes Neurais
+</h3>
+<p align="justify">
+Na década de 80, pesquisadores voltaram a dedicar atenção às Redes Neurais devido ao desenvolvimento do algoritmo Backpropagation, popularizado pelos trabalhos de David Rumelhart, Geoffrey Hinton e Ronald Williams.
+</p>
+<p align="justify">
+O Backpropagation tornou possível treinar redes com múltiplas camadas, permitindo resolver problemas muito mais complexos do que aqueles abordados pelo Perceptron e esse avanço representou um marco muito importante para o crescimento da área e abriu caminho para o desenvolvimento de diversas arquiteturas clássicas.
+</p>
+<h3 align="center">
+1.2.7 A era do Deep Learning
+</h3>
+<p align="justify">
+Nas últimas décadas, a evolução do hardware, principalmente das unidades de processamento gráfico (GPUs), permitiram o treinamento de redes neurais com milhões de parâmetros.
+</p>
+<p align="justify">
+Em 2012, durante a competição ImageNet, uma rede neural profunda apresentou desempenho muito superior aos métodos tradicionais de reconhecimento de imagens.
+Esse resultado impulsionou, e muito, o crescimento do Deep Learning, consolidando as Redes Neurais como uma das principais tecnologias da Inteligência Artificial moderna.
+</p>
+<p align="justify">
+Atualmente, modelos de linguagem, sistemas de visão computacional, assistentes virtuais, tradutores automáticos e ferramentas de IA generativa usam arquiteturas derivadas dos conceitos apresentados pelas Redes Neurais clássicas.
+</p>
+<h3 align="center">
+1.2.8 Inteligência Artificial na atualidade
+</h3>
+<p align="justify">
+Atuamente,a Inteligência Artificial está presente em praticamente todos os setores da sociedade. Empresas usam sistemas inteligentes para automatizar processos, apoiar decisões estratégicas, identificar padrões de consumo e otimizar recursos.
+</p>
+<p align="center">
+Na área científica, algoritmos de IA auxiliam pesquisadores na análise de grandes volumes de dados, permitindo avanços em diversas áreas, como medicina, engenharia, agricultura e monitoramento ambiental.
+</p>
+<p align="justify">
+No contexto da Amazônia, técnicas de Inteligência Artificial vêm sendo aplicadas na classificação de imagens de satélite, monitoramento do desmatamento, previsão de queimadas, identificação de espécies, análise de recursos hídricos e apoio à preservação ambiental de plantas típicas.
+</p>
+<p align="justify">
+As Arquiteturas clássicas remetem mais ao lado das doenças da região, ao café e outros alimentos e principalmente as plantas e frutas.
+</p>
