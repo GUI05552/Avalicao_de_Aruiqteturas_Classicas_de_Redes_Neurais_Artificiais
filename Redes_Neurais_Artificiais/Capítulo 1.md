@@ -139,7 +139,7 @@ Mesmo depois de décadas, o Teste de Turing ainda é uma importante referência 
 </h4>
 
 <h3 align="center">
-1.2.3 A Conferência de Dartmouth
+1.2.3 - A Conferência de Dartmouth
 </h3>
 
 <p align="justify">
@@ -149,7 +149,7 @@ Mesmo depois de décadas, o Teste de Turing ainda é uma importante referência 
 Foi nessa conferência que surgiu oficialmente o termo Artificial Intelligence, usado para descrever pesquisas voltadas ao desenvolvimento de máquinas inteligentes, naquela época os pesquisadores acreditavam que, em poucas décadas, computadores seriam capazes de resolver praticamente qualquer tipo de problema intelectual humano... até agora não é capaz, 2026,  embora essa previsão tenha se mostrado otimista demais, a conferência marcou o início de inúmeras pesquisas que influenciam a IA até os dias de hoje.
 </p>
 <h3 align="center">
-1.2.4 O surgimento das Redes Neurais
+1.2.4 - O surgimento das Redes Neurais
 </h3>
 <p align="justify">
 No ano de 1958, Frank Rosenblatt apresentou o Perceptron, considerado a primeira arquitetura de rede neural capaz de aprender a partir de exemplos bem definidos, o Perceptron introduziu conceitos fundamentais usados até hoje, como os pesos sinápticos, o treinamento supervisionado e a atualização automática dos parâmetros do modelo.
@@ -158,7 +158,7 @@ No ano de 1958, Frank Rosenblatt apresentou o Perceptron, considerado a primeira
 Esse trabalho despertou um grande interesse na comunidade científica, pois demonstrava que computadores podiam aprender sem a necessidade de programar explicitamente todas as regras de decisão mas nem tudo são flores e as limitações dessa arquitetura ainda eram significativas, principalmente na resolução de problemas que não eram linearmente separáveis.
 </p>
 <h3 align="center">
-1.2.5 O primeiro Inverno da Inteligência Artificial
+1.2.5 - O primeiro Inverno da Inteligência Artificial
 </h3>
 <p align="justify">
 Em 1969, Marvin Minsky e Seymour Papert publicaram o livro Perceptrons, demonstrando diversas limitações matemáticas do Perceptron de camada única, entre essas limitações,  estava bem destacada a incapacidade da rede em resolver o problema da função lógica XOR.
@@ -173,7 +173,7 @@ Esse período ficou conhecido como Primeiro Inverno da Inteligência Artificial.
 Mesmo que o livro de Minsky e Papert tenha apontado limitações reais do Perceptron, ele também contribuiu para reduzir o interesse pelas Redes Neurais durante aproximadamente uma década. Posteriormente, verificou-se que muitas dessas limitações poderiam ser superadas utilizando arquiteturas multicamadas.
 </p>
 <h3 align="center">
-1.2.6 O renascimento das Redes Neurais
+1.2.6 - O renascimento das Redes Neurais
 </h3>
 <p align="justify">
 Na década de 80, pesquisadores voltaram a dedicar atenção às Redes Neurais devido ao desenvolvimento do algoritmo Backpropagation, popularizado pelos trabalhos de David Rumelhart, Geoffrey Hinton e Ronald Williams.
@@ -182,7 +182,7 @@ Na década de 80, pesquisadores voltaram a dedicar atenção às Redes Neurais d
 O Backpropagation tornou possível treinar redes com múltiplas camadas, permitindo resolver problemas muito mais complexos do que aqueles abordados pelo Perceptron e esse avanço representou um marco muito importante para o crescimento da área e abriu caminho para o desenvolvimento de diversas arquiteturas clássicas.
 </p>
 <h3 align="center">
-1.2.7 A era do Deep Learning
+1.2.7 - A era do Deep Learning
 </h3>
 <p align="justify">
 Nas últimas décadas, a evolução do hardware, principalmente das unidades de processamento gráfico (GPUs), permitiram o treinamento de redes neurais com milhões de parâmetros.
@@ -195,7 +195,7 @@ Esse resultado impulsionou, e muito, o crescimento do Deep Learning, consolidand
 Atualmente, modelos de linguagem, sistemas de visão computacional, assistentes virtuais, tradutores automáticos e ferramentas de IA generativa usam arquiteturas derivadas dos conceitos apresentados pelas Redes Neurais clássicas.
 </p>
 <h3 align="center">
-1.2.8 Inteligência Artificial na atualidade
+1.2.8 - Inteligência Artificial na atualidade
 </h3>
 <p align="justify">
 Atuamente,a Inteligência Artificial está presente em praticamente todos os setores da sociedade. Empresas usam sistemas inteligentes para automatizar processos, apoiar decisões estratégicas, identificar padrões de consumo e otimizar recursos.
