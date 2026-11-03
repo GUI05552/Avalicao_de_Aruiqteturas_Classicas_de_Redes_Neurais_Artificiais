@@ -305,10 +305,109 @@ Esse processo é semelhante ao aprendizado humano. Quando uma pessoa pratica rep
 Nas Redes Neurais Artificiais, esses parâmetros correspondem principalmente aos pesos sinápticos e ao bias, responsáveis por determinar como cada entrada influencia a resposta produzida pela rede.
 </p>
 
+<h4 align="center">
+  Figura 1.6 – Processo de aprendizado de um algoritmo de Machine Learning.
+</h4>
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/16a1b4d4-2dbb-4c09-8513-8eee006787fe"
     alt="Imagem do projeto"
     width="900"
   />
+</p>
+
+<h4 align="center"> 
+Fonte: Autor(2026)
+</h4>
+
+<h3 align="center">
+1.3.2 - Tipos de aprendizado
+</h3>
+
+<p align="justify">
+Os algoritmos de Aprendizado de Máquina podem ser classificados de acordo com a forma como recebem as informações durante o seu treinamento. Os principais tipos são o aprendizado supervisionado, não supervisionado e por reforço.
+</p>
+
+<p align="center">
+  Aprendizado Supervisionado
+</p>
+
+<p align="justify">
+No aprendizado supervisionado, cada exemplo da base de treinamento já possui uma resposta correta previamente conhecida. Durante o treinamento, o algoritmo compara continuamente a sua saída com a resposta esperada, ajustando seus parâmetros para reduzir o erro.
+</p>
+
+<p align="justify">
+Esse tipo de aprendizado é bastante usado em problemas de classificação e regressão.
+</p>
+
+<p align="justify">
+As arquiteturas Perceptron, ADALINE, MLP, RBF e LVQ pertencem, em sua forma clássica, ao grupo dos algoritmos supervisionados.
+</p>
+
+<h4 align="center">
+Figura 1.7 – Aprendizado supervisionado
+</h4>
+
+<p align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3e4d5d70-92ab-48fe-bbf0-80dda6f0033b" />
+</p>
+
+<h4 align="center">
+Fonte: Autor(2026)
+</h4>
+
+<p align="center">
+Aprendizado Não Supervisionado
+</p>
+
+<p align="justify">
+Já no aprendizado não supervisionado, os dados não possuem respostas previamente conhecidas. O objetivo do algoritmo é identificar automaticamente padrões, grupos ou relações existentes entre os exemplos, ou seja ele executa sem interferência.
+</p>
+
+<p align="justify">
+Esse tipo de aprendizado é bastante utilizado em problemas de agrupamento (clustering), redução de dimensionalidade e análise exploratória de dados.
+</p>
+
+<p align="justify">
+ As arquiteturas SOM e ART-1 constituem exemplos clássicos desse tipo de aprendizado.
+</p>
+
+<h4 align="center">
+Figura 1.8 – Aprendizado não supervisionado.
+</h4>
+
+<p align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0de0c64b-9444-4900-bec4-40fa8d587eee" />
+</p>
+
+<h4 align="center">
+Fonte: Autor(2026)
+</h4>
+
+<p align="center"> 
+Aprendizado Por Reforço
+</p>
+
+<p align="justify">
+O aprendizado por reforço é diferente dos métodos anteriores por não usar respostas corretas previamente definidas. Nesse paradigma, um agente interage continuamente com um ambiente, recebendo recompensas ou penalidades conforme suas ações.
+</p>
+<p align="justify">
+O objetivo consiste em aprender uma estratégia capaz de maximizar a recompensa acumulada ao longo do tempo.
+</p>
+
+<h4 align="center">
+  Figura 1.9 - Aprendizado por Reforço
+</h4>
+
+<p align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ae6b4e07-4cae-4177-8c88-f19590485819" />
+</p>
+
+<h4 align="center">
+  Fonte Autor(2026)
+</h4>
+
+<p align="justify">
+
 </p>
