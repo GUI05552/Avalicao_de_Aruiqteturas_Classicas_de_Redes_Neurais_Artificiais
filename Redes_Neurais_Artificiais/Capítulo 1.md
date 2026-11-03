@@ -305,3 +305,10 @@ Esse processo é semelhante ao aprendizado humano. Quando uma pessoa pratica rep
 Nas Redes Neurais Artificiais, esses parâmetros correspondem principalmente aos pesos sinápticos e ao bias, responsáveis por determinar como cada entrada influencia a resposta produzida pela rede.
 </p>
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/16a1b4d4-2dbb-4c09-8513-8eee006787fe"
+    alt="Imagem do projeto"
+    width="900"
+  />
+</p>
