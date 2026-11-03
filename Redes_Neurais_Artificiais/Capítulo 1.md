@@ -264,3 +264,44 @@ Diferentemente da programação tradicional, em que um desenvolvedor define toda
 <p align="justify">
 Esse paradigma representa uma mudança significativa na forma como sistemas computacionais são desenvolvidos. Em vez de depender exclusivamente do conhecimento do programador, o sistema passa a extrair conhecimento diretamente dos dados, identificando relações, tendências e padrões que podem ser utilizados para resolver diferentes problemas.
 </p>
+
+<h4 alugn="center">
+Figura 1.5 – Relação entre Inteligência Artificial, Aprendizado de Máquina, Aprendizado Profundo e Redes Neurais Artificiais.
+</h4>
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/62369a5b-813c-4f19-8586-ec091f0cfca5"
+    alt="Imagem do projeto"
+    width="500"
+  />
+</p>
+
+<h4 align="center">
+Fonte: Autor(2026)
+</h4>
+
+<p align="justify">
+Observando a Figura 1.5, percebe-se que o Aprendizado de Máquina constitui apenas uma das diversas áreas da Inteligência Artificial. Da mesma forma, o Aprendizado Profundo (Deep Learning) representa um subconjunto do Aprendizado de Máquina, caracterizado pela utilização de redes neurais com múltiplas camadas para resolver problemas de elevada complexidade.
+</p>
+
+<p align="justify">
+Embora o Deep Learning tenha recebido grande destaque nos últimos anos, seu funcionamento se baseia em conceitos desenvolvidos pelas arquiteturas clássicas de Redes Neurais Artificiais. Dessa forma, compreender algoritmos como Perceptron, ADALINE, MLP, SOM, LVQ, RBF, Hopfield e ART-1 constitui uma etapa essencial pra entender os modelos modernos utilizados atualmente.
+</p>
+
+<h3 align="center">
+1.3.1 Como ocorre o aprendizado
+</h3>
+
+<p align="justify">
+O aprendizado de uma máquina ocorre por meio da análise repetitiva de exemplos. Durante o treinamento, o algoritmo recebe um conjunto de dados contendo informações relevantes sobre determinado problema. A partir dessas informações, ele ajusta seus parâmetros internos de forma a reduzir o erro entre a saída produzida e a resposta esperada.
+</p>
+
+<p align="justify">
+Esse processo é semelhante ao aprendizado humano. Quando uma pessoa pratica repetidamente uma determinada atividade, tende a cometer menos erros ao longo do tempo. Da mesma forma, algoritmos de Aprendizado de Máquina modificam continuamente seus parâmetros até alcançar um desempenho melhor.
+</p>
+
+<p align="justify">
+Nas Redes Neurais Artificiais, esses parâmetros correspondem principalmente aos pesos sinápticos e ao bias, responsáveis por determinar como cada entrada influencia a resposta produzida pela rede.
+</p>
+
