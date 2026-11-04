@@ -458,5 +458,5 @@ Figura 1.10 – Representação simplificada do cérebro humano.
 </p>
 
 <h4 align="center">
-Fonte: AutoR(2026)
+Fonte: Autor (2026)
 </h4>
