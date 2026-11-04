@@ -408,6 +408,55 @@ O objetivo consiste em aprender uma estratégia capaz de maximizar a recompensa 
   Fonte Autor(2026)
 </h4>
 
-<p align="justify">
-
+<p align="center">
+1.3.3 Principais aplicações do Aprendizado de Máquina
 </p>
+
+<p align="justify">
+O Aprendizado de Máquina é usado em praticamente  quase todos os setores da sociedade. Sua capacidade de identificar padrões em grandes volumes de dados permite automatizar tarefas complexas e apoiar os processos de tomada de decisão.
+</p>
+
+<p alogn="justify">
+Entre as principais aplicações destacam-se:
+</p>
+
+- reconhecimento facial;
+- reconhecimento de voz;
+- tradução automática;
+- sistemas de recomendação;
+- veículos autônomos;
+- diagnóstico médico;
+- detecção de fraudes;
+- previsão de demanda;
+- manutenção preditiva;
+- classificação de imagens;
+- processamento de linguagem natural;
+- monitoramento ambiental.
+  
+<p align="justify">
+No contexto amazônico, essas técnicas desempenham papel estratégico em atividades como classificação de imagens de satélite, identificação de áreas desmatadas, previsão de queimadas, monitoramento hidrológico, agricultura de precisão, principalmente frutas, e acompanhamento da biodiversidade.
+</p>
+
+<h2 align="center">
+1.4 - O Cérebro Humano
+</h2>
+
+<p align="center">
+O cérebro humano é considerado o sistema biológico mais complexo conhecido pela ciência, responsável por grandes feitos da humanidade, e faz o processamento de informações, o controle das funções corporais, armazenamento de memórias e tomada de decisões, esse órgão serviu como principal fonte de inspiração para o desenvolvimento das Redes Neurais Artificiais (RNAs), mesmo que uma rede neural artificial seja extremamente simplificada quando comparada ao cérebro humano, diversos de seus conceitos fundamentais foram inspirados na forma como os neurônios biológicos se comunicam.
+</p>
+
+<p align="center">
+Compreender a estrutura básica do cérebro humano permite entender por que as Redes Neurais Artificiais utilizam elementos como neurônios, conexões, pesos sinápticos e aprendizado. Esses conceitos, apesar de representados matematicamente nos modelos computacionais, possuem origem nos mecanismos observados no sistema nervoso.
+</p>
+
+<h4 align="center">
+Figura 1.10 – Representação simplificada do cérebro humano.
+</h4>
+
+<p align="center">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a15f6aca-9556-46b9-9bea-102da30d6845" />
+</p>
+
+<h4 align="center">
+Fonte: AutoR(2026)
+</h4>
