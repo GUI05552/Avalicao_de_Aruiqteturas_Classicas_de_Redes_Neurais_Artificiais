@@ -499,7 +499,7 @@ Figura 1.11 - Estrutura do Neurônio
 </h4>
 
 <p align="center">
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/af8b4325-dd2b-4fb1-9095-9e489d4a3072" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/af8b4325-dd2b-4fb1-9095-9e489d4a3072" />
 </p>
 
 <h4 align="center">
