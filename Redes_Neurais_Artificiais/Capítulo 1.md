@@ -460,3 +460,36 @@ Figura 1.10 – Representação simplificada do cérebro humano.
 <h4 align="center">
 Fonte: Autor (2026)
 </h4>
+
+<h3 align="center">
+1.4.1 - Organização do cérebro humano
+</h3>
+
+<p align="justify">
+O cérebro é composto por aproximadamente 86 bilhões de neurônios, conectados por uma quantidade muito grande de conexões sinápticas. Essas conexões permitem que sinais elétricos e químicos sejam transmitidos continuamente entre diferentes regiões do sistema nervoso, possibilitando o processamento das informações recebidas pelos órgãos sensoriais.
+</p>
+
+<p align="justify">
+Cada neurônio estabelece milhares de conexões com outros neurônios, formando uma vasta rede biológica altamente distribuída. Essa característica torna o cérebro extremamente eficiente para realizar varias tarefas simultaneamente, como reconhecer imagens, interpretar sons, compreender a linguagem e coordenar movimentos.
+</p>
+
+<p align="justify">
+Ao contrário dos computadores convencionais, que processam instruções de forma linear, o cérebro já realiza milhões de operações quase ao mesmo tempo, tudo em paralelo, distribuindo o processamento entre bilhões de neurônios.
+</p>
+
+<p align="justify">
+Essa capacidade de processamento paralelo inspirou diretamente a criação das Redes Neurais Artificiais, nas quais diversos neurônios artificiais trabalham simultaneamente para resolver um problema.
+</p>
+
+<h3 align="center">
+1.4.2 O neurônio biológico
+</h3>
+
+<p align="justify">
+O neurônio é a unidade funcional básica do sistema nervoso, a sua principal função consiste em receber, processar e transmitir impulsos nervosos para outros neurônios.
+Diante da enorme diversidade de neurônios existentes no organismo humano, sua estrutura básica é composta por quatro elementos principais:
+  
+- dendritos;
+- corpo celular (soma);
+- axônio;
+- terminações sinápticas.
