@@ -408,9 +408,9 @@ O objetivo consiste em aprender uma estratégia capaz de maximizar a recompensa 
   Fonte Autor(2026)
 </h4>
 
-<p align="center">
-1.3.3 Principais aplicações do Aprendizado de Máquina
-</p>
+<h3 align="center">
+1.3.3 - Principais aplicações do Aprendizado de Máquina
+<h3>
 
 <p align="justify">
 O Aprendizado de Máquina é usado em praticamente  quase todos os setores da sociedade. Sua capacidade de identificar padrões em grandes volumes de dados permite automatizar tarefas complexas e apoiar os processos de tomada de decisão.
