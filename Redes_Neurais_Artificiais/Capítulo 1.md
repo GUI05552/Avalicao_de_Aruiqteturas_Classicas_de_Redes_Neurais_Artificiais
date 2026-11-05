@@ -518,3 +518,35 @@ O corpo celular, também denominado soma, realiza o processamento dos sinais rec
 Por fim, as terminações sinápticas estabelecem contato com outros neurônios por meio das sinapses, permitindo que o processo seja continuamente repetido em toda a rede neural biológica.
 </p>
 
+<h3 align="center">
+1.4.3 - As sinapses
+</h3>
+
+<p align="justify">
+As sinapses constituem os pontos de comunicação entre os neurônios. Nelas ocorre a transmissão das informações utilizando substâncias químicas denominadas neurotransmissores.
+</p>
+
+<p align="justify">
+Quando um impulso elétrico alcança a extremidade do axônio, neurotransmissores são liberados na fenda sináptica, estimulando o neurônio seguinte.
+</p>
+
+<p align="justify">
+Esse mecanismo permite que bilhões de neurônios trabalhem de forma coordenada, formando uma complexa rede de processamento distribuído.
+</p>
+
+<p align="justify">
+Nas Redes Neurais Artificiais, as sinapses são representadas pelos pesos sinápticos, responsáveis por determinar a influência que cada entrada exerce sobre a saída do neurônio artificial.
+</p>
+
+<h4 align="center">
+Figura 1.12 – Comunicação entre dois neurônios através da sinapse
+</h4>
+
+<p align="center">
+<img 
+  src="https://github.com/user-attachments/assets/740345c4-b050-4e07-8e2a-7acb9f4df211"
+  width="600" 
+  height="400" 
+  alt="imagem do projeto"  
+  />
+</p>
