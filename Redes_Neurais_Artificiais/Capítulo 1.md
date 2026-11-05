@@ -506,15 +506,15 @@ Figura 1.11 - Estrutura do Neurônio
 Fonte: Autor(2026)
 </h4>
 
-<p align="center">
+<p align="justify">
 Os dendritos são responsáveis por receber sinais provenientes de outros neurônios. Essas informações chegam ao corpo celular, onde ocorre sua integração.
 </p>
 
-<p align="center">
+<p align="justify">
 O corpo celular, também denominado soma, realiza o processamento dos sinais recebidos. Caso a intensidade do estímulo ultrapasse determinado limiar, um impulso elétrico é gerado, esse impulso percorre o axônio, estrutura responsável por transportar a informação até as terminações nervosas.
 </p>
 
-<p align="center">
+<p align="justify">
 Por fim, as terminações sinápticas estabelecem contato com outros neurônios por meio das sinapses, permitindo que o processo seja continuamente repetido em toda a rede neural biológica.
 </p>
 
