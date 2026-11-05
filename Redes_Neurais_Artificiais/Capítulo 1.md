@@ -493,3 +493,28 @@ Diante da enorme diversidade de neurônios existentes no organismo humano, sua e
 - corpo celular (soma);
 - axônio;
 - terminações sinápticas.
+
+<h4 align="center">
+Figura 1.11 - Estrutura do Neurônio
+</h4>
+
+<p align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/af8b4325-dd2b-4fb1-9095-9e489d4a3072" />
+</p>
+
+<h4 align="center">
+Fonte: Autor(2026)
+</h4>
+
+<p align="center">
+Os dendritos são responsáveis por receber sinais provenientes de outros neurônios. Essas informações chegam ao corpo celular, onde ocorre sua integração.
+</p>
+
+<p align="center">
+O corpo celular, também denominado soma, realiza o processamento dos sinais recebidos. Caso a intensidade do estímulo ultrapasse determinado limiar, um impulso elétrico é gerado, esse impulso percorre o axônio, estrutura responsável por transportar a informação até as terminações nervosas.
+</p>
+
+<p align="center">
+Por fim, as terminações sinápticas estabelecem contato com outros neurônios por meio das sinapses, permitindo que o processo seja continuamente repetido em toda a rede neural biológica.
+</p>
+
