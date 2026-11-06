@@ -594,8 +594,8 @@ Ainda assim, essa simplificação mostrou-se suficiente para resolver diversos p
 Figura 1.13 – Comparação entre o neurônio biológico e o neurônio artificial.
 </h4>
 
-<p align="center"
-<img width="600" height="390" alt="image" src="https://github.com/user-attachments/assets/eca624d2-27f8-4949-a974-54dc66faf9ef" />
+<p align="center">
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4122a5ea-acd7-4f88-9013-1deb8213e805" />
 </p>
 
 <p align="justify">
