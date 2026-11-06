@@ -777,6 +777,33 @@ Além dos pesos, o neurônio artificial também possui um parâmetro denominado 
 
 <p align="justify">
 O bias pode ser interpretado como um ajuste adicional aplicado à soma ponderada das entradas.
+</p>
+
+<p align="justify">
 Sua principal função consiste em deslocar o limiar de decisão do neurônio, aumentando sua flexibilidade para representar diferentes padrões.
+</p>
+
+<p align="justify">
 Sem o bias, diversas funções matemáticas não poderiam ser representadas adequadamente.
+</p>
+
+<p align="justify">
 Durante o treinamento, esse parâmetro também é atualizado juntamente com os pesos sinápticos.
+</p>
+
+<h3 align="center">
+1.5.6 - O somador
+</h3>
+
+<p aalign="justify">
+Após multiplicar cada entrada pelo respectivo peso, o neurônio realiza a soma de todos esses produtos.
+</p>
+
+<p align="justify">
+Esse processo é conhecido como soma ponderada.
+</p>
+
+<h4 align="center">
+Equação 1.1.
+</h4>
+
