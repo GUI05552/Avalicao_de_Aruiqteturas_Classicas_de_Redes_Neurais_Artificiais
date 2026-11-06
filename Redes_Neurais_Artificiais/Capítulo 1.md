@@ -807,3 +807,4 @@ Esse processo é conhecido como soma ponderada.
 Equação 1.1.
 </h4>
 
+u = \sum_{i=1}^{n} x_i w_i + b 
