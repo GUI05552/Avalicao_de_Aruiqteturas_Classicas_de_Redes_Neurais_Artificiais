@@ -604,3 +604,4 @@ Fonte: Autor (2026)
 
 <p align="justify">
 Essa comparação evidencia que o neurônio artificial preserva apenas os princípios essenciais do processamento biológico, permitindo representar computacionalmente o processo de aprendizagem por meio de modelos matemáticos.
+
