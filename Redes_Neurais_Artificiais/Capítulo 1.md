@@ -595,7 +595,7 @@ Figura 1.13 – Comparação entre o neurônio biológico e o neurônio artifici
 </h4>
 
 <p align="center">
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4122a5ea-acd7-4f88-9013-1deb8213e805" />
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/4122a5ea-acd7-4f88-9013-1deb8213e805" />
 </p>
 
 <h4 align="center">
@@ -604,4 +604,95 @@ Fonte: Autor (2026)
 
 <p align="justify">
 Essa comparação evidencia que o neurônio artificial preserva apenas os princípios essenciais do processamento biológico, permitindo representar computacionalmente o processo de aprendizagem por meio de modelos matemáticos.
+</p>
+
+<h3 align="center">
+1.4.6 - O cérebro humano e a Inteligência Artificial
+</h3>
+
+<p align="justify">
+O avanço das pesquisas da Neurociência continua contribuindo significativamente para o desenvolvimento da Inteligência Artificial. Novos conhecimentos sobre memória, percepção, atenção e aprendizado inspiram continuamente a criação de algoritmos muito mais eficientes.
+</p>
+
+<p align="justify">
+Da mesma forma, modelos computacionais desenvolvidos pela Inteligência Artificial também auxiliam os pesquisadores da Neurociência a compreender melhor o funcionamento do cérebro.
+</p>
+
+<p align="jsutify">
+Essa relação demonstra que ambas as áreas evoluem de forma complementar, compartilhando os conhecimentos que impulsionam o desenvolvimento científico e tecnológico.
+</p>
+
+<h2 align="center">
+1.5 O Neurônio Artificial
+</h2>
+
+<p align="justify">
+Depois de compreender a estrutura e o funcionamento do neurônio biológico, se torna possível entender como esses princípios foram adaptados para o ambiente computacional. O neurônio artificial representa a unidade básica das Redes Neurais Artificiais (RNAs) e constitui o elemento que é responsável pelo processamento das informações em praticamente todas as arquiteturas estudadas neste livro.
+</p>
+
+<p align="justify">
+Mesmo que seja inspirado no sistema nervoso humano, o neurônio artificial não busca reproduzir toda a complexidade biológica existente no cérebro. Seu objetivo é representar, por meio de um modelo matemático simplificado, a forma como diferentes informações podem ser combinadas para produzir uma resposta.
+</p>
+
+<p align="justify">
+A partir desse modelo simples foram desenvolvidas arquiteturas capazes de resolver problemas de classificação, regressão, reconhecimento de padrões, agrupamento de dados e memória associativa, demonstrando que mesmo uma representação simplificada do neurônio biológico possui grande potencial computacional.
+</p>
+
+<h3 align="center">
+1.5.1 - Origem do neurônio artificial
+</h3>
+
+<p align="justify">
+O cérebro humano sempre foi responsável de grandes feitos ao longo da história, um belo dia alguém pensou: “ é possível criar um cérebro no computador?”.
+</p>
+
+<p align="justify">
+O primeiro modelo de neurônio artificial foi proposto lá em 1943 pelos pesquisadores Warren McCulloch e Walter Pitts, que apresentaram um modelo matemático inspirado no funcionamento dos neurônios biológicos.
+</p>
+
+<p align="justify">
+Nesse modelo, cada neurônio recebia sinais provenientes de diferentes entradas, realizava uma soma dessas informações e produzia uma saída baseada em uma função lógica.
+</p>
+
+<p align="justify">
+Apesar de sua simplicidade, esse trabalho demonstrou que operações lógicas poderiam ser implementadas utilizando estruturas inspiradas no cérebro humano, tornando-se um dos principais marcos para o surgimento das Redes Neurais Artificiais.
+</p>
+
+<p align="justify">
+Anos mais tarde, Frank Rosenblatt utilizou esse conceito como base para desenvolver o Perceptron, primeira rede neural capaz de aprender a partir de exemplos.
+</p>
+
+<h3 align="center">
+1.5.2 - Estrutura do neurônio artificial
+</h3>
+
+<p align="justify">
+O neurônio artificial é composto por cinco elementos fundamentais:
+</p>
+
+- entradas
+- pesos sinápticos
+- bias
+- somador
+- função de ativação.
+
+<p align="justify">
+Cada componente desempenha um papel específico durante o processamento das informações.
+</p>
+
+<h4 align="center"> 
+Figura 1.14 - Estrutura do neurônio artificial
+</h4>
+
+<p align="center">
+<img width="625" height="531" alt="image" src="https://github.com/user-attachments/assets/32e19571-3cae-487a-9d5b-4133ead59d06" />
+</p>
+
+<h4 align="center">
+Fonte : Autor (2026)
+</h4>
+
+<p align="justify">
+Observando a figura 1.14, é notável que todas as entradas contribuem para o cálculo da saída do neurônio mas, cada entrada possui um peso específico, responsável por determinar sua influência durante o processamento.
+</p>
 
