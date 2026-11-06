@@ -598,5 +598,9 @@ Figura 1.13 – Comparação entre o neurônio biológico e o neurônio artifici
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4122a5ea-acd7-4f88-9013-1deb8213e805" />
 </p>
 
+<h4 align="center">
+Fonte: Autor (2026)
+</h4>
+
 <p align="justify">
 Essa comparação evidencia que o neurônio artificial preserva apenas os princípios essenciais do processamento biológico, permitindo representar computacionalmente o processo de aprendizagem por meio de modelos matemáticos.
