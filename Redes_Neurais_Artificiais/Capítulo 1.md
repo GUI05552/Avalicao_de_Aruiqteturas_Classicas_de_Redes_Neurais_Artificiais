@@ -543,10 +543,60 @@ Figura 1.12 – Comunicação entre dois neurônios através da sinapse
 </h4>
 
 <p align="center">
-<img 
-  src="https://github.com/user-attachments/assets/740345c4-b050-4e07-8e2a-7acb9f4df211"
-  width="600" 
-  height="400" 
-  alt="imagem do projeto"  
-  />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/534fa4b6-84ff-4748-91c1-d35a574887b8" />
 </p>
+
+<h4 align="center">
+Fonte : Autor (2026)
+</h4>
+
+<h3 align="center">
+1.4.4 - Plasticidade neural
+</h3>
+
+<p align="jsutify">
+Uma das características mais importantes do cérebro humano é a sua capacidade de adaptação, que é denominada plasticidade neural.
+</p>
+
+<p align="jsutify">
+A plasticidade corresponde à capacidade do sistema nervoso de modificar suas conexões em resposta às experiências vividas. Durante o aprendizado, determinadas conexões tornam-se mais fortes, enquanto outras podem enfraquecer ou até desaparecer.
+</p>
+
+<p align="jsutify">
+Esse processo permite que novos conhecimentos sejam adquiridos continuamente ao longo da vida.
+</p>
+
+<p align="jsutify">
+Nas Redes Neurais Artificiais ocorre um fenômeno semelhante, só que, em vez de modificar conexões biológicas, os algoritmos alteram os pesos sinápticos, buscando reduzir o erro durante o treinamento.
+</p>
+
+<p align="jsutify">
+Essa analogia constitui um dos princípios fundamentais do aprendizado computacional.
+</p>
+
+<h3 align="center">
+1.4.5 - Inspiração para as Redes Neurais Artificiais
+</h3>
+
+<p align="justify">
+Embora as Redes Neurais Artificiais tenham sido inspiradas no cérebro humano, é muito importante destacar que elas representam apenas uma simplificação matemática do funcionamento biológico.
+</p>
+
+<p align="justify">
+Enquanto o cérebro possui bilhões de neurônios altamente especializados e conectados por trilhões de sinapses, uma rede neural artificial normalmente utiliza um número muito menor de neurônios artificiais, representados por equações matemáticas relativamente simples.
+</p>
+
+<p align="justify">
+Ainda assim, essa simplificação mostrou-se suficiente para resolver diversos problemas complexos de classificação, regressão, reconhecimento de padrões e agrupamento de dados.
+</p>
+
+<h4 align="center">
+Figura 1.13 – Comparação entre o neurônio biológico e o neurônio artificial.
+</h4>
+
+<p align="center"
+<img width="600" height="390" alt="image" src="https://github.com/user-attachments/assets/eca624d2-27f8-4949-a974-54dc66faf9ef" />
+</p>
+
+<p align="justify">
+Essa comparação evidencia que o neurônio artificial preserva apenas os princípios essenciais do processamento biológico, permitindo representar computacionalmente o processo de aprendizagem por meio de modelos matemáticos.
