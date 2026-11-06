@@ -696,3 +696,87 @@ Fonte : Autor (2026)
 Observando a figura 1.14, é notável que todas as entradas contribuem para o cálculo da saída do neurônio mas, cada entrada possui um peso específico, responsável por determinar sua influência durante o processamento.
 </p>
 
+<h3 align="center">
+1.5.3 - Entradas
+</h3>
+
+<p align="justify">
+As entradas representam as informações que são fornecidas ao neurônio.
+</p>
+
+<p align="justify">
+Cada entrada corresponde a uma característica do problema que está sendo analisado.
+</p>
+
+<p align="justify">
+Em uma aplicação de classificação de flores por exemplo, as entradas podem representar:
+</p>
+
+- comprimento da pétala
+- largura da pétala
+- comprimento da sépala
+- largura da sépala.
+
+<p align="justify">
+Já em problemas relacionados ao monitoramento ambiental da Amazônia, as entradas podem representar:
+</p>
+
+- temperatura
+- índice de vegetação
+- umidade
+- refletância das bandas espectrais
+- altitude
+- precipitação.
+
+<p align="justify">
+Essas informações são organizadas na forma de vetores, permitindo que sejam processadas matematicamente pela rede neural.
+</p>
+
+<h3 align="center">
+1.5.4 - Pesos sinápticos
+</h3>
+
+<p align="justify">
+Os pesos sinápticos representam a importância atribuída a cada entrada durante o processo de decisão.
+</p>
+
+<p align="justify">
+Matematicamente falando cada entrada é multiplicada por um peso correspondente.
+</p>
+
+<p align="justify">
+Quanto maior o valor absoluto do peso, maior é a sua influência na resposta produzida pela rede.
+</p>
+
+<p align="justify">
+Durante o treinamento, esses pesos são continuamente ajustados até que a rede produza resultados satisfatórios.
+</p>
+
+<p align="justify">
+Nas Redes Neurais Artificiais, o aprendizado ocorre justamente por meio dessa atualização dos pesos.
+</p>
+
+<h4 align="center">
+Figura 1.15 - Influência dos pesos sinápticos.
+</h4>
+
+<p align="center">
+<img width="494" height="377" alt="image" src="https://github.com/user-attachments/assets/562d6efd-aaa5-44b8-b790-a746e58353a5" />
+</p>
+
+<h4 align="center">
+Fonte: Autor (2026)
+
+<h3 align="center">
+1.5.5 - O bias
+</h3>
+
+<p align="justify">
+Além dos pesos, o neurônio artificial também possui um parâmetro denominado bias.
+</p>
+
+<p align="justify">
+O bias pode ser interpretado como um ajuste adicional aplicado à soma ponderada das entradas.
+Sua principal função consiste em deslocar o limiar de decisão do neurônio, aumentando sua flexibilidade para representar diferentes padrões.
+Sem o bias, diversas funções matemáticas não poderiam ser representadas adequadamente.
+Durante o treinamento, esse parâmetro também é atualizado juntamente com os pesos sinápticos.
