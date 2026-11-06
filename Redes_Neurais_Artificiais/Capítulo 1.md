@@ -1,7 +1,7 @@
 <h1 align="center">
   Capítulo 1
   
-  Inteligência Artficial e Redes Neurias
+  Inteligência Artficial e Redes Neurais
 </h1>
 
 <p align="justify">
