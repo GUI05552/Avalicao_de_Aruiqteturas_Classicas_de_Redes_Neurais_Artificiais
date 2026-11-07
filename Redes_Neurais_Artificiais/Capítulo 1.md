@@ -821,3 +821,42 @@ Equação 1.1.
 <p align="justify">
 Essa equação constitui a base matemática utilizada em praticamente todas as arquiteturas de Redes Neurais Artificiais.
 </p>
+
+<h3 align="center">
+1.5.7 - A função de ativação
+</h3>
+
+<p align="justufy">
+Depois de calcular a soma ponderada das entradas, o resultado é enviado para uma função denominada função de ativação.
+</p>
+
+<p align="justufy">
+Sua finalidade consiste em determinar qual será a resposta produzida pelo neurônio
+</p>
+
+<p align="justufy">
+Dependendo da arquitetura utilizada, diferentes funções podem ser empregadas.
+</p>
+
+<p align="justufy">
+Entre as mais conhecidas destacam-se:
+- função degrau
+- função linear
+- função sigmoide
+- tangente hiperbólica
+- ReLU
+- Softmax
+</p>
+
+<h4 align="center">
+Figura 1.16 - Fluxo do processamento
+</h4>
+
+<p align="center">
+<img width="725" height="312" alt="image" src="https://github.com/user-attachments/assets/b3b97126-9e0b-466a-bcb5-cd70690c7347" />
+</p>
+
+<h4 align="center">
+Fonte : Autor(2026)
+</h4>
+
