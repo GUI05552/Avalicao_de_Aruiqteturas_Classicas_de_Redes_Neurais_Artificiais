@@ -441,11 +441,11 @@ No contexto amazônico, essas técnicas desempenham papel estratégico em ativid
 1.4 - O Cérebro Humano
 </h2>
 
-<p align="center">
+<p align="justify">
 O cérebro humano é considerado o sistema biológico mais complexo conhecido pela ciência, responsável por grandes feitos da humanidade, e faz o processamento de informações, o controle das funções corporais, armazenamento de memórias e tomada de decisões, esse órgão serviu como principal fonte de inspiração para o desenvolvimento das Redes Neurais Artificiais (RNAs), mesmo que uma rede neural artificial seja extremamente simplificada quando comparada ao cérebro humano, diversos de seus conceitos fundamentais foram inspirados na forma como os neurônios biológicos se comunicam.
 </p>
 
-<p align="center">
+<p align="justify">
 Compreender a estrutura básica do cérebro humano permite entender por que as Redes Neurais Artificiais utilizam elementos como neurônios, conexões, pesos sinápticos e aprendizado. Esses conceitos, apesar de representados matematicamente nos modelos computacionais, possuem origem nos mecanismos observados no sistema nervoso.
 </p>
 
@@ -807,4 +807,4 @@ Esse processo é conhecido como soma ponderada.
 Equação 1.1.
 </h4>
 
-u = \sum_{i=1}^{n} x_i w_i + b 
+
