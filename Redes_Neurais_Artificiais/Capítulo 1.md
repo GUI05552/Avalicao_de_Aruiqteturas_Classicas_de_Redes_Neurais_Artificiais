@@ -807,4 +807,17 @@ Esse processo é conhecido como soma ponderada.
 Equação 1.1.
 </h4>
 
+<p align="center">
+<img width="500" height="250" alt="Captura de tela 2026-11-07 010845" src="https://github.com/user-attachments/assets/b8bc582f-68d3-4012-8bf6-cb95ccb40a5e" />
+</p>
 
+**Onde:**
+
+- Xi representa cada entrada;
+- Wi representa o peso correspondente;
+- b corresponde ao bias (viés);
+- u representa o potencial de ativação do neurônio.
+
+<p align="justify">
+Essa equação constitui a base matemática utilizada em praticamente todas as arquiteturas de Redes Neurais Artificiais.
+</p>
