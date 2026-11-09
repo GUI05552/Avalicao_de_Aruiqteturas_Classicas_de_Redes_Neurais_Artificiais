@@ -860,3 +860,129 @@ Figura 1.16 - Fluxo do processamento
 Fonte : Autor(2026)
 </h4>
 
+<h3 align="center">
+1.5.8 - A saída do neurônio
+</h3>
+
+<p align="justify">
+Após a aplicação da função de ativação, obtém-se a saída do neurônio, normalmente representada por (y).
+</p>
+
+<p align="justify">
+Dependendo do problema, essa saída pode assumir diferentes interpretações.
+</p>
+
+<p align="justify">
+Em tarefas de classificação, pode indicar a classe prevista.
+</p>
+
+<p align="justify">
+Em problemas de regressão, pode representar um valor numérico contínuo.
+</p>
+
+<p align="justify">
+Em arquiteturas competitivas, pode indicar o neurônio vencedor.
+</p>
+
+<p align="justify">
+Assim, o significado da saída depende diretamente da arquitetura e da aplicação considerada.
+</p>
+
+<h3 align="center">
+1.5.9 - Funcionamento geral
+</h3>
+
+<p align="justify">
+O funcionamento do neurônio artificial pode ser resumido em cinco etapas principais:
+  
+1.	Recebimento das entradas.
+2.	Multiplicação de cada entrada pelo respectivo peso.
+3.	Cálculo da soma ponderada.
+4.	Adição do bias.
+5.	Aplicação da função de ativação para produzir a saída.
+
+<h4 align="center">
+Figura 1.17 - Etapas do processamento de um neurônio artificial.
+</h4>
+
+<p align="center"
+<img width="911" height="195" alt="image" src="https://github.com/user-attachments/assets/c85bc5f7-6246-4ce8-9bd1-666432da2282" />
+</p>
+
+<h3 align="center">
+1.5.10 - Comparação entre o neurônio biológico e o neurônio artificial
+</h3>
+
+<p align="justfy">
+Apesar das diferenças estruturais, existe uma forte correspondência entre os componentes do neurônio biológico e do neurônio artificial.
+</p>
+
+<h4 align="center">
+Tabela 1.1 - Correspondência entre o neurônio biológico e o neurônio artificial
+</h4>
+
+<div align="center">
+  
+| **Neurônio Biológico**	| **Neurônio Artificial** |
+|----------------------|----------------------|
+|Dendritos	| Entradas|
+|Sinapses	Pesos | sinápticos
+|Corpo celular	| Somador
+|Limiar de disparo	|Função de ativação
+| Axônio	| Saída|
+</div>
+
+<h4 align="center">
+Fonte: Autor(2026)
+</h4>
+
+<p align="justfy">
+Essa analogia demonstra que o neurônio artificial preserva apenas os mecanismos essenciais responsáveis pelo processamento das informações, tornando possível representar matematicamente processos inspirados no funcionamento do cérebro humano.
+</p>
+
+<h3 align="center">
+1.5.11 - O neurônio artificial nas arquiteturas clássicas
+</h3>
+
+<p align="justfy">
+Todas as arquiteturas apresentadas neste livro utilizam o neurônio artificial como unidade básica de processamento.
+</p>
+
+<p align="justfy">
+Entretanto, cada arquitetura organiza esses neurônios de maneira diferente para resolver problemas específicos.
+</p>
+
+Por exemplo:
+
+- o Perceptron utiliza um único neurônio para realizar classificações lineares;
+- o ADALINE modifica a forma como ocorre o aprendizado dos pesos;
+- a MLP organiza diversos neurônios em múltiplas camadas;
+- as redes RBF utilizam funções de base radial para representar padrões complexos;
+- a Rede de Hopfield utiliza neurônios interconectados para implementar memória associativa;
+- os Mapas Auto-Organizáveis (SOM) empregam neurônios organizados em grades bidimensionais para agrupamento de dados;
+- a LVQ utiliza neurônios representando protótipos de classes;
+- a ART-1 organiza neurônios para reconhecimento adaptativo de padrões.
+
+<p align="justfy">
+Embora apresentem estruturas distintas, todas essas arquiteturas compartilham os mesmos princípios fundamentais apresentados nesta seção.
+</p>
+
+<h3 align="center">
+1.8 - Redes Neurais na Amazônia
+</h3>
+
+<p align="justfy">
+A Amazônia representa um dos ecossistemas mais importantes do planeta (ela não é o pulmão do mundo também) desempenhando papel fundamental na regulação climática, conservação da biodiversidade e manutenção dos recursos hídricos. Sua extensa cobertura florestal, associada à enorme diversidade de espécies e às constantes transformações ambientais, produz diariamente uma quantidade significativa de dados provenientes de satélites, sensores, estações meteorológicas, drones e pesquisas de campo e por ai vai.
+</p>
+
+<p align="justfy">
+O processamento manual desse grande volume de informações tornou-se uma tarefa cada vez mais complexa. Nesse contexto, as Redes Neurais Artificiais (RNAs) surgem como ferramentas capazes de automatizar análises, identificar padrões e auxiliar pesquisadores na tomada de decisões.
+</p>
+
+<p align="justfy">
+Embora as arquiteturas clássicas estudadas neste livro tenham sido desenvolvidas há várias décadas, seus princípios continuam sendo aplicados em diversas soluções modernas voltadas ao monitoramento ambiental, agricultura, hidrologia e conservação da biodiversidade.
+</p>
+
+<p align="justfy">
+Este projeto de Iniciação Científica, que deu origem a este livreto, tem como objetivo justamente estudar essas arquiteturas clássicas, compreender seus fundamentos e analisar como elas podem servir de base para aplicações relacionadas à Amazônia.
+</p>
