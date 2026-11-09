@@ -949,7 +949,7 @@ Todas as arquiteturas apresentadas neste livro utilizam o neurônio artificial c
 </p>
 
 <p align="justfy">
-Entretanto, cada arquitetura organiza esses neurônios de maneira diferente para resolver problemas específicos.
+Só que cada arquitetura organiza esses neurônios de maneira diferente para resolver problemas específicos.
 </p>
 
 Por exemplo:
@@ -971,18 +971,18 @@ Embora apresentem estruturas distintas, todas essas arquiteturas compartilham os
 1.8 - Redes Neurais na Amazônia
 </h3>
 
-<p align="justfy">
+<p align="justify">
 A Amazônia representa um dos ecossistemas mais importantes do planeta (ela não é o pulmão do mundo também) desempenhando papel fundamental na regulação climática, conservação da biodiversidade e manutenção dos recursos hídricos. Sua extensa cobertura florestal, associada à enorme diversidade de espécies e às constantes transformações ambientais, produz diariamente uma quantidade significativa de dados provenientes de satélites, sensores, estações meteorológicas, drones e pesquisas de campo e por ai vai.
 </p>
 
-<p align="justfy">
+<p align="justify">
 O processamento manual desse grande volume de informações tornou-se uma tarefa cada vez mais complexa. Nesse contexto, as Redes Neurais Artificiais (RNAs) surgem como ferramentas capazes de automatizar análises, identificar padrões e auxiliar pesquisadores na tomada de decisões.
 </p>
 
-<p align="justfy">
+<p align="justify">
 Embora as arquiteturas clássicas estudadas neste livro tenham sido desenvolvidas há várias décadas, seus princípios continuam sendo aplicados em diversas soluções modernas voltadas ao monitoramento ambiental, agricultura, hidrologia e conservação da biodiversidade.
 </p>
 
-<p align="justfy">
+<p align="justify">
 Este projeto de Iniciação Científica, que deu origem a este livreto, tem como objetivo justamente estudar essas arquiteturas clássicas, compreender seus fundamentos e analisar como elas podem servir de base para aplicações relacionadas à Amazônia.
 </p>
