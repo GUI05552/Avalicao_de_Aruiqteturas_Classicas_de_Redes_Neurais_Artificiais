@@ -983,6 +983,29 @@ O processamento manual desse grande volume de informações tornou-se uma tarefa
 Embora as arquiteturas clássicas estudadas neste livro tenham sido desenvolvidas há várias décadas, seus princípios continuam sendo aplicados em diversas soluções modernas voltadas ao monitoramento ambiental, agricultura, hidrologia e conservação da biodiversidade.
 </p>
 
+<h3 align="center">
+1.8.1 - A importância da Inteligência Artificial para a Amazônia
+</h3>
+
 <p align="justify">
-Este projeto de Iniciação Científica, que deu origem a este livreto, tem como objetivo justamente estudar essas arquiteturas clássicas, compreender seus fundamentos e analisar como elas podem servir de base para aplicações relacionadas à Amazônia.
+A região amazônica possui características que tornam o uso da Inteligência Artificial especialmente relevante.
 </p>
+
+Entre elas destacam-se:
+
+- grande extensão territorial;
+- difícil acesso a diversas regiões;
+- enorme diversidade biológica;
+- monitoramento contínuo de áreas protegidas;
+- grande volume de imagens de satélite;
+- elevada quantidade de dados ambientais.
+
+<p align="justify">
+Essas características tornam inviável a análise exclusivamente manual das informações produzidas diariamente.
+</p>
+
+<p align="justify">
+As Redes Neurais Artificiais permitem automatizar esse processo, identificando padrões que muitas vezes não seriam facilmente percebidos por métodos tradicionais.
+</p>
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0bde052a-4e81-444e-be5e-e2a78fd39476" />
