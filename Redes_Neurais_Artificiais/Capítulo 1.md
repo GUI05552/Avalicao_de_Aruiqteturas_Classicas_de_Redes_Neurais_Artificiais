@@ -1008,4 +1008,58 @@ Essas características tornam inviável a análise exclusivamente manual das inf
 As Redes Neurais Artificiais permitem automatizar esse processo, identificando padrões que muitas vezes não seriam facilmente percebidos por métodos tradicionais.
 </p>
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0bde052a-4e81-444e-be5e-e2a78fd39476" />
+<h4 align="center">
+Figura 1.18 - Principais aplicações na região 
+</h4>
+
+<p align="center">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0bde052a-4e81-444e-be5e-e2a78fd39476" />
+</p>
+
+<h4 align="center">
+Fonte: Auror(2026)
+</h4>
+
+<h3 align="center">
+1.8.2 - Sensoriamento remoto
+</h3>
+
+<p align="justify">
+Uma das principais aplicações das Redes Neurais na Amazônia é relacionada ao sensoriamento remoto.
+</p>
+
+<p align="justify">
+Satélites capturam diariamente milhares de imagens da floresta, com isso produzindo uma enorme quantidade de informações sobre cobertura vegetal, áreas desmatadas, queimadas, recursos hídricos e mudanças ambientais.
+</p>
+
+<p align="justify">
+A interpretação manual dessas imagens demandaria grande quantidade de profissionais e tempo de processamento.
+</p>
+
+<p align="justify">
+Utilizando Redes Neurais Artificiais, torna-se possível automatizar a classificação dessas imagens, permitindo identificar alterações ambientais de forma rápida e precisa.
+</p>
+
+<p align="justify">
+Arquiteturas como MLP, RBF e SOM podem ser empregadas para reconhecer padrões presentes em imagens multiespectrais, facilitando o monitoramento contínuo da região.
+</p>
+
+<h3 align="center">
+1.8.3 - Monitoramento do desmatamento
+</h3>
+
+<p align="justify">
+O desmatamento constitui um dos maiores desafios ambientais que são enfrentados pela região.
+</p>
+
+<p align="justify">
+Diversos órgãos governamentais usam imagens de satélite para acompanhar a evolução das áreas desmatadas e identificar as regiões que necessitam de fiscalização.
+</p>
+
+<p align="justify">
+Redes Neurais Artificiais podem ser treinadas para distinguir automaticamente essas áreas preservadas, áreas degradadas e até regiões em processo de recuperação.
+</p>
+
+<p align="justify">
+Esses modelos reduzem significativamente o tempo necessário para análise das imagens, permitindo respostas mais rápidas por parte das instituições responsáveis pelo monitoramento ambiental.
+</p>
